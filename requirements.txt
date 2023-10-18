@@ -28,7 +28,7 @@ click==8.1.7
 cmake==3.26.0
 colorama==0.4.6
 comm==0.1.2
-conda==4.10.3
+conda==4.3.16
 conda-package-handling==1.7.3
 contourpy==1.0.7
 crcmod==1.7
